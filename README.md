@@ -1,1 +1,1 @@
-# vaheedbagawan347-sketch-BCA-Digital-logic-030
+BCA-Digital-logic-030
